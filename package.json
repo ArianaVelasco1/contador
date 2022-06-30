@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build -r https://REACTCONTADOR@github.com/arianavelasco1.github.io/contador"
+    "deploy":"gh-pages -d build"
 
   },
   "eslintConfig": {
